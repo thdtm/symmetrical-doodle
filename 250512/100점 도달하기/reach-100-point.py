@@ -11,7 +11,7 @@ for _ in range(score,101):
         score += 1
     elif score >= 60:
         print('D',end=' ')
-        socre += 1
+        score += 1
     else:
         print('F',end=' ')
         score += 1
