@@ -5,5 +5,5 @@ for _ in range(3):
 
 for i in range(3):
     for j in range(3):
-        print(arr[j][i] * 3, end= ' ')
+        print(arr[i][j] * 3, end= ' ')
     print()
